@@ -1,9 +1,10 @@
 ## Hi there 👋 Welcome to my GitHub Profile!
+
 #### Projects
+
 #### Links
-<a href="https://www.linkedin.com/in/danielkarlocanlas/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/danielkarlocanlas"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
-
-
+- [LinkedIn](https://www.linkedin.com/in/danielkarlocanlas)
+- [Kaggle](https://www.kaggle.com/danielkarlocanlas)
 
 <!--
 **dafencer/dafencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
