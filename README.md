@@ -1,6 +1,13 @@
-## Hi there 👋 Welcome to my GitHub Profile!
+## Who am I? 
+I’m a fencing athlete and an aspiring Data Scientist with strong interests in data analysis, statistical modeling, machine learning, and sports analytics.
 
 #### Projects
+
+| Project Link | Completion Date | Tools | Project Description |
+|---|---|---|---|
+| 🤺 [Fencing Head-to-Head Matchup Dashboard](https://github.com/dafencer/PFA_H2H/blob/main/README.md) | TBD | Python 3, Selenium, Pandas, Numpy, Plotly, Streamlit| Developed a score-based Glicko-2 rating system for 2025 PFA Rankings, that incorporates margin-of-victory to predict match outcomes. Designed and built an interactive dashboard to compare fencers, visualize ratings, and provide insights for individual events. | 
+
+
 
 #### Links
 - [LinkedIn](https://www.linkedin.com/in/danielkarlocanlas)
