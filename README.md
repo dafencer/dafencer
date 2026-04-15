@@ -1,5 +1,5 @@
 ## Who am I? 
-I’m a fencing athlete and an aspiring Data Scientist with strong interests in data analysis, statistical modeling, machine learning, and sports analytics.
+I’m a fencing athlete and an aspiring Data Scientist with strong interests in statistical/machine learning, and sports analytics.
 
 #### Projects
 
