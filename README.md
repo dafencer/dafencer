@@ -8,7 +8,7 @@ I’m a fencing athlete and an aspiring data professional with strong interests 
 
 | Project Link | Completion Date | Tools | Project Description |
 |:---:|:---:|:---:|:---:|
-| 🤺 [Head-to-Head Match Outcome Prediction for Philippine Fencing Rankings Using a Score-Based Glicko-2 Model](https://github.com/dafencer/PFA_H2H/blob/main/README.md) | February 2026 | Python 3, Selenium, Pandas, NumPy, Sklearn, Plotly, Streamlit | Developed a score-based Glicko-2 rating system for 2025 PFA Rankings that incorporates margin of victory to predict match outcomes. Designed and built an interactive dashboard to compare fencers, visualize ratings, and generate event-level insights. |
+| 🤺 [Head-to-Head Match Outcome Prediction for Philippine Fencing Rankings Using a Score-Based Glicko-2 System](https://github.com/dafencer/PFA_H2H/blob/main/README.md) | February 2026 | Python 3, Selenium, Pandas, NumPy, Sklearn, Plotly, Streamlit | Developed a score-based Glicko-2 rating system for 2025 PFA Rankings that incorporates margin of victory to predict match outcomes. Designed and built an interactive dashboard to compare fencers, visualize ratings, and generate event-level insights. |
 
 
 
