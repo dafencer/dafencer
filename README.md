@@ -1,4 +1,4 @@
-<img width="3557" height="2371" alt="UPFT-2647" src="https://github.com/user-attachments/assets/761f9286-59f9-4c28-85e8-acb4f3f3871a" />
+<img width="3557" height="2000" alt="UPFT-2647" src="https://github.com/user-attachments/assets/761f9286-59f9-4c28-85e8-acb4f3f3871a" />
 
 ## Who am I? 
 I’m a fencing athlete and an aspiring data professional with strong interests in statistical/machine learning and sports analytics.
